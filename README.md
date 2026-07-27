@@ -52,11 +52,12 @@ Day and date: Thrusday, 23 July 2026
 Tutor: Umapathy Venugopal
 
 Campus: Sydney Campus
+Grateful to learn from our respected teacher through zoom.
 
 <img width="1470" height="956" alt="Screenshot 2026-07-27 at 12 13 22 PM" src="https://github.com/user-attachments/assets/59a23bec-f2e5-40fa-963a-30cdd4b45c1a" />
 
 Summary
-We talked about various types of artificial intelligence (AI) tools that are used practically like a car with driving capabilities; face identification system for parking lot management etc.; chatbots. Ethics were another issue that we looked at such as confidentiality, prejudice etc.
+We talked about various types of artificial intelligence (AI) tools that are used practically like a car with driving capabilities; face identification system for parking lot management etc.; chatbots and more about how it can helps us in our daily life.Although,use of Ai is higher nowadays,somehow it provided a raw data or anything that we want. Moreover,Ethics were another issue that we looked at such as confidentiality, prejudice etc.
 
 Reflection (Analysis and Evaluation)
 The thing which struck me is how AI works, it does not understand its purpose and tries guessing things by analyzing inputs given out to them. It’s surprising as i thought AI are all good, perfect at everything. Artificial intelligence (AI) has its mistakes; these are terrible ones to humans so i was thinking of AI as well.
