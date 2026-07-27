@@ -3,7 +3,13 @@
 
 
 
+
+
+
+
+
 Artefact 1: What is Artifical Intelligence (AI)?
+
 
 
 
@@ -13,14 +19,42 @@ Artefact 1: What is Artifical Intelligence (AI)?
 
 <img width="1004" height="673" alt="Screenshot 2026-07-26 at 4 37 40 AM" src="https://github.com/user-attachments/assets/3822300b-5ba7-429d-9ee1-a1b97e657309" />
 
+
+
+
+
+
+
+
+
 https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
+
+
+
+
+
+
 Summary
+
+
+
+
+
 
 This is a clip from my youtube channel where they explain ai for beginners, very easy-to-understandly. AI is defined as a machine which does things humans are smart for solving problems, making decisions. The video talked of various forms of AI like Artificial Narrow Intelligence (ANI), AGI (Artificial General Intelligence) and ASI (Artificial Super intelligence). Also, it states how artificial intelligence functions through information processing as well as pattern recognition with a view towards prediction making.
 
 
+
+
+
 Justification
+
+
+
+
+
+
 
 
 This is what i chose as my choice of art class, due to its explanation style. It was very useful while studying for that course of mine this year. This movie is written with simple language used by scientists of today’s time period. Also, it made me think of our class project where we discussed how art does things for people. The lesson from this course taught me about art as well its significance for life now-a-days.
@@ -28,14 +62,43 @@ And also how Ai is leading in everyfield to make us easier in the work.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Artefact 2: News Article – AI in Wildlife Conservation
+
+
+
+
+
+
 
 
 Summary:
 
 
 
+
+
+
 The article from ABC News talks about how artificial intelligence's being used by rangers in Victoria to protect native animals. The rangers take millions of pictures with cameras in the field and AI systems look through these pictures faster than people. The AI can spot animals accurately which helps the people in charge act quickly when there are problems, like unwanted animals. This technology helps save time and makes choices when it comes to protecting the environment.
+
+
+
+
+
+
+
 
 Justification:
 
@@ -44,6 +107,18 @@ Justification:
 
 
 I picked this article because it shows an example of how AI helps people and the planet. It made me see how machine learning can work with groups of data quickly which is something we talked about in the class. I thought it was cool that AI can help protect nature not just make companies better or create tech. This thing matters because it shows the side of AI but it also makes me think about how important it is to have correct information and good data.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -62,7 +137,20 @@ Article: Privacy, ethics, transparency, and accountability in AI systems for wea
 
 
 
+
+
+
+
+
+
+
+
 <img width="683" height="364" alt="Screenshot 2026-07-26 at 5 20 45 AM" src="https://github.com/user-attachments/assets/0e2c5e10-6122-4dde-93d6-e8dc9f590973" />
+
+
+
+
+
 
 
 
@@ -94,6 +182,23 @@ Citation: Radanliev, P 2025, ‘Privacy, ethics, transparency, and accountabilit
 
 
 Justification: I chose this research paper because smart devices are now a part of daily life but a lot of people might not realize how much personal information these gadgets gather. Artificial intelligence can offer health details but it can also be dangerous if the data is collected without the right permission or used to categorize people. This topic relates to the conversation we had in Week 2, about data privacy, unfair data sets, openness and ethical use of machine learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
