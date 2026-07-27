@@ -7,7 +7,9 @@ Artefact 1: What is Artifical Intelligence (AI)?
 https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 Summary
+
 This is a clip from my youtube channel where they explain ai for beginners, very easy-to-understandly. AI is defined as a machine which does things humans are smart for solving problems, making decisions. The video talked of various forms of AI like Artificial Narrow Intelligence (ANI), AGI (Artificial General Intelligence) and ASI (Artificial Super intelligence). Also, it states how artificial intelligence functions through information processing as well as pattern recognition with a view towards prediction making.
+
 Justification
 This is what i chose as my choice of art class, due to its explanation style. It was very useful while studying for that course of mine this year. This movie is written with simple language used by scientists of today’s time period. Also, it made me think of our class project where we discussed how art does things for people. The lesson from this course taught me about art as well its significance for life now-a-days.
 
