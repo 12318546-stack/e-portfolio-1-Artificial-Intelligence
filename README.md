@@ -15,6 +15,7 @@ This is what i chose as my choice of art class, due to its explanation style. It
 And also how Ai is leading in everyfield to make us easier in the work.
 
 Artefact 2: News Article – AI in Wildlife Conservation
+
 Summary:
 The article from ABC News talks about how artificial intelligence's being used by rangers in Victoria to protect native animals. The rangers take millions of pictures with cameras in the field and AI systems look through these pictures faster than people. The AI can spot animals accurately which helps the people in charge act quickly when there are problems, like unwanted animals. This technology helps save time and makes choices when it comes to protecting the environment.
 
