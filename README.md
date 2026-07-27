@@ -55,12 +55,14 @@ Campus: Sydney Campus
 
 <img width="1470" height="956" alt="Screenshot 2026-07-27 at 12 13 22 PM" src="https://github.com/user-attachments/assets/59a23bec-f2e5-40fa-963a-30cdd4b45c1a" />
 
+Summary
+We talked about various types of artificial intelligence (AI) tools that are used practically like a car with driving capabilities; face identification system for parking lot management etc.; chatbots. Ethics were another issue that we looked at such as confidentiality, prejudice etc.
 
-Summary: I thought facial recognition technology was really interesting. We discussed how facial recognition technology is used for security and for watching people.. Facial recognition technology can also get it wrong and that can hurt innocent people. The workshop made us think about who should be responsible when facial recognition technology makes a mistake, with facial recognition technology.
+Reflection (Analysis and Evaluation)
+The thing which struck me is how AI works, it does not understand its purpose and tries guessing things by analyzing inputs given out to them. It’s surprising as i thought AI are all good, perfect at everything. Artificial intelligence (AI) has its mistakes; these are terrible ones to humans so i was thinking of AI as well.
+Accountability is another idea. It’s difficult when AI decides what, how & why things are done by Artificial intelligence systems. It also caused much reflection on what is done by IOT workers, as well. From my experience at this training session people should also take responsibility as well because of smart machines / ai’s usage issues.
+This is an educational event for me. The lesson was to be critical when it comes to technologies as well their effects upon people’s lives, etc. I'll consider pros as well cons with regards to artificial intelligence later on. More accountable with respect of technologies used, as well as their creation would likely suit me better. The lesson that I learnt from this event was also to realize how significant a part plays on ethics rather than information when it comes with respect for technology (ict).
 
-Justification:
-
-I picked this topic because it made me think about the balance between keeping people safe and protecting privacy. The thing that really got me was that Artificial Intelligence systems need to be correct and clear. We have to use Artificial Intelligence systems in a way that makes sure they do not hurt people. I think about Artificial Intelligence systems a lot now and how they can affect people. Artificial Intelligence systems are very important. We have to be careful, with them.
 
 References in CQU Harvard Style
 
