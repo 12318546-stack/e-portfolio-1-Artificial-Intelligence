@@ -260,10 +260,8 @@ This is an educational event for me. The lesson was to be critical when it comes
 
 References in CQU Harvard Style
 
-
-
-Chen, E 2026, ‘“Humanizer” tool can erase signs of AI-written text—alarming scientists’, Nature, 7 July, viewed 26 July 2026, https://www.nature.com/articles/d41586-026-02105-3
-
+Brown,M 2026,'The''groundbreaking'' AI tool helping Victorian rangers protect native species in a fraction of the time',
+ABC News,27 April,viewed 13 May 2026,
 
 
 Radanliev, P 2025, ‘Privacy, ethics, transparency, and accountability in AI systems for wearable devices’, Frontiers in Digital Health, vol. 7, article 1431246. DOI: 10.3389/fdgth.2025.1431246
