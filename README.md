@@ -2,6 +2,13 @@
 Learning and applying artificial intelligence through hands-on projects, experiments, and real-world problem-solving.
 
 Artefact 1: What is Artifical Intelligence (AI)?
+
+
+
+
+
+
+
 <img width="1004" height="673" alt="Screenshot 2026-07-26 at 4 37 40 AM" src="https://github.com/user-attachments/assets/3822300b-5ba7-429d-9ee1-a1b97e657309" />
 
 https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
@@ -22,16 +29,33 @@ The article from ABC News talks about how artificial intelligence's being used b
 Justification:
 I picked this article because it shows an example of how AI helps people and the planet. It made me see how machine learning can work with groups of data quickly which is something we talked about in the class. I thought it was cool that AI can help protect nature not just make companies better or create tech. This thing matters because it shows the side of AI but it also makes me think about how important it is to have correct information and good data.
 
+
+
+
+
+
 Artefact 3 — Scholarly article
 
 Article: Privacy, ethics, transparency, and accountability in AI systems for wearable devices
 
+
+
+
+
 <img width="683" height="364" alt="Screenshot 2026-07-26 at 5 20 45 AM" src="https://github.com/user-attachments/assets/0e2c5e10-6122-4dde-93d6-e8dc9f590973" />
+
+
+
+
+
+
 
 <img width="687" height="599" alt="Screenshot 2026-07-26 at 5 20 58 AM" src="https://github.com/user-attachments/assets/0b27cce2-8593-40e0-a3df-ed7c597809c3" />
 
 
-Summary: Radanliev in the year 2025 looks at the problems that happen when artificial intelligence is used in things we wear like smartwatches and sensors that check our health. These things can get lots of information all the time like how healthy we are what we do and where we go.
+Summary:
+
+Radanliev in the year 2025 looks at the problems that happen when artificial intelligence is used in things we wear like smartwatches and sensors that check our health. These things can get lots of information all the time like how healthy we are what we do and where we go.
 
 The article talks about some worries. People are worried about their privacy if they really agree to all this if the information used to train the intelligence is fair and if we can understand how the artificial intelligence makes decisions.
 
@@ -40,6 +64,8 @@ It suggests a plan that makes sure everything is clear that people are responsib
 Citation: Radanliev, P 2025, ‘Privacy, ethics, transparency, and accountability in AI systems for wearable devices’, Frontiers in Digital Health, vol. 7, article 1431246, doi: 10.3389/fdgth.2025.1431246.
 
 Justification: I chose this research paper because smart devices are now a part of daily life but a lot of people might not realize how much personal information these gadgets gather. Artificial intelligence can offer health details but it can also be dangerous if the data is collected without the right permission or used to categorize people. This topic relates to the conversation we had in Week 2, about data privacy, unfair data sets, openness and ethical use of machine learning.
+
+
 
 Artefact 4: Workshop Personal Reflection
 
@@ -50,13 +76,30 @@ Day and date: Thrusday, 23 July 2026
 Tutor: Umapathy Venugopal
 
 Campus: Sydney Campus
+
 Grateful to learn from our respected teacher through zoom.
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img width="1470" height="956" alt="Screenshot 2026-07-27 at 12 13 22 PM" src="https://github.com/user-attachments/assets/59a23bec-f2e5-40fa-963a-30cdd4b45c1a" />
 
 Summary
 
+
+
 We talked about various types of artificial intelligence (AI) tools that are used practically like a car with driving capabilities; face identification system for parking lot management etc.; chatbots and more about how it can helps us in our daily life.Although,use of Ai is higher nowadays,somehow it provided a raw data or anything that we want. Moreover,Ethics were another issue that we looked at such as confidentiality, prejudice etc.
+
+
 
 Reflection (Analysis and Evaluation)
 
