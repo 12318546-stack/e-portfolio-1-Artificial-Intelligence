@@ -28,6 +28,9 @@ Summary:
 The article from ABC News talks about how artificial intelligence's being used by rangers in Victoria to protect native animals. The rangers take millions of pictures with cameras in the field and AI systems look through these pictures faster than people. The AI can spot animals accurately which helps the people in charge act quickly when there are problems, like unwanted animals. This technology helps save time and makes choices when it comes to protecting the environment.
 
 Justification:
+
+
+
 I picked this article because it shows an example of how AI helps people and the planet. It made me see how machine learning can work with groups of data quickly which is something we talked about in the class. I thought it was cool that AI can help protect nature not just make companies better or create tech. This thing matters because it shows the side of AI but it also makes me think about how important it is to have correct information and good data.
 
 
