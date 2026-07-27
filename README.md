@@ -14,17 +14,12 @@ Justification
 This is what i chose as my choice of art class, due to its explanation style. It was very useful while studying for that course of mine this year. This movie is written with simple language used by scientists of today’s time period. Also, it made me think of our class project where we discussed how art does things for people. The lesson from this course taught me about art as well its significance for life now-a-days.
 And also how Ai is leading in everyfield to make us easier in the work.
 
-Artefact 2 — News article
+Artefact 2: News Article – AI in Wildlife Conservation
+Summary:
+The article from ABC News talks about how artificial intelligence's being used by rangers in Victoria to protect native animals. The rangers take millions of pictures with cameras in the field and AI systems look through these pictures faster than people. The AI can spot animals accurately which helps the people in charge act quickly when there are problems, like unwanted animals. This technology helps save time and makes choices when it comes to protecting the environment.
 
-Article: ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
-
-<img width="609" height="602" alt="Screenshot 2026-07-26 at 5 19 55 AM" src="https://github.com/user-attachments/assets/d5e11c0c-f08a-4174-afab-6eede74120ac" />
-
-Summary: Chen in 2026 talks about a humanizer" tool that can take AI-written academic text and make it look more natural. It can also remove signs that the text was created by a machine. Some people think this tool might make academic writing better in terms of quality and style.. Other people worry that it might let people hide the fact that they used AI when writing research papers or grant applications. This brings up questions about honesty, who gets credit for the work being open about how the work was done and keeping trust, in academic work.
-
-Citation: Chen, E 2026, ‘“Humanizer” tool can erase signs of AI-written text — alarming scientists’, Nature, vol. 655, pp. 556–557, 7 July, viewed 26 July 2026, doi: 10.1038/d41586-026-02105-3.
-
-Justification: I picked this article because it shows that the moral issues with AI are not just because of the technology but because of the way people use it. A tool that makes writing sound more human might help people write better. It could also be used to hide that AI was involved and pretend someone elses work is yours. This relates to the topics, from Week 2 about being open taking responsibility and using AI the way.
+Justification:
+I picked this article because it shows an example of how AI helps people and the planet. It made me see how machine learning can work with groups of data quickly which is something we talked about in the class. I thought it was cool that AI can help protect nature not just make companies better or create tech. This thing matters because it shows the side of AI but it also makes me think about how important it is to have correct information and good data.
 
 Artefact 3 — Scholarly article
 
