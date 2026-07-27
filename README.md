@@ -6,11 +6,10 @@ Artefact 1: What is Artifical Intelligence (AI)?
 
 https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
-I found it really interesting to learn about the kinds of intelligence. The artificial intelligence is divided into three types: Artificial Narrow Intelligence, Artificial General Intelligence and Artificial Super Intelligence. Before I watched this video I thought all artificial intelligence was like Chat GPT. Now I know that artificial intelligence is not just one thing. I learned that artificial intelligence has types and each type of artificial intelligence is different from the other types of artificial intelligence. The artificial intelligence that I was thinking of is actually Artificial Narrow Intelligence, which's a type of artificial intelligence that is good, at one thing like Chat GPT is a type of Artificial Narrow Intelligence.
-
-Then I learned that Artificial Narrow Intelligence is made to do specific things. Artificial General Intelligence will be as smart as humans.. Artificial Super Intelligence will be even smarter than humans. I was really surprised by Artificial Super Intelligence. It made me a little worried about Artificial Super Intelligence. This is because Artificial Super Intelligence is not real yet. If people do not know how to control Artificial Super Intelligence it could cause problems.
-
-The video also taught me that artificial intelligence uses computers, data and ways to solve problems to do things that seem smart. Artificial intelligence is able to do these things because of computing power, data and problem-solving techniques. I think artificial intelligence is pretty cool. Artificial Super Intelligence is still a little scary, to me.
+Summary
+This is a clip from my youtube channel where they explain ai for beginners, very easy-to-understandly. AI is defined as a machine which does things humans are smart for solving problems, making decisions. The video talked of various forms of AI like Artificial Narrow Intelligence (ANI), AGI (Artificial General Intelligence) and ASI (Artificial Super intelligence). Also, it states how artificial intelligence functions through information processing as well as pattern recognition with a view towards prediction making.
+Justification
+This is what i chose as my choice of art class, due to its explanation style. It was very useful while studying for that course of mine this year. This movie is written with simple language used by scientists of today’s time period. Also, it made me think of our class project where we discussed how art does things for people. The lesson from this course taught me about art as well its significance for life now-a-days.
 
 Artefact 2 — News article
 
