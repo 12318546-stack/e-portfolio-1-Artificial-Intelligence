@@ -53,6 +53,9 @@ Tutor: Umapathy Venugopal
 
 Campus: Sydney Campus
 
+<img width="1470" height="956" alt="Screenshot 2026-07-27 at 12 13 22 PM" src="https://github.com/user-attachments/assets/59a23bec-f2e5-40fa-963a-30cdd4b45c1a" />
+
+
 Summary: I thought facial recognition technology was really interesting. We discussed how facial recognition technology is used for security and for watching people.. Facial recognition technology can also get it wrong and that can hurt innocent people. The workshop made us think about who should be responsible when facial recognition technology makes a mistake, with facial recognition technology.
 
 Justification:
