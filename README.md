@@ -12,7 +12,7 @@ This is a clip from my youtube channel where they explain ai for beginners, very
 
 Justification
 This is what i chose as my choice of art class, due to its explanation style. It was very useful while studying for that course of mine this year. This movie is written with simple language used by scientists of today’s time period. Also, it made me think of our class project where we discussed how art does things for people. The lesson from this course taught me about art as well its significance for life now-a-days.
-
+And also how Ai is leading in everyfield to make us easier in the work.
 Artefact 2 — News article
 
 Article: ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
