@@ -55,6 +55,7 @@ Grateful to learn from our respected teacher through zoom.
 <img width="1470" height="956" alt="Screenshot 2026-07-27 at 12 13 22 PM" src="https://github.com/user-attachments/assets/59a23bec-f2e5-40fa-963a-30cdd4b45c1a" />
 
 Summary
+
 We talked about various types of artificial intelligence (AI) tools that are used practically like a car with driving capabilities; face identification system for parking lot management etc.; chatbots and more about how it can helps us in our daily life.Although,use of Ai is higher nowadays,somehow it provided a raw data or anything that we want. Moreover,Ethics were another issue that we looked at such as confidentiality, prejudice etc.
 
 Reflection (Analysis and Evaluation)
