@@ -1,0 +1,74 @@
+Student: [Your name]Student number: [Your student number]Workshop: Week 4 – Ethics and Ethical TheoriesDate: 11 August 2026
+
+
+Artefact #4 – Workshop 4: Kantianism
+
+
+
+The key idea from Workshop 4 that stood out most to me was Kantianism, especially the principle that people should be treated as ends in themselves rather than only as a means to an end. The workshop showed that a moral rule should be tested by asking whether it could be applied universally (CQUniversity 2026). Before the workshop, I usually judged an ICT decision mainly by whether it produced a useful result. After the discussion, I understood that a good outcome does not automatically make an action ethical if people are deceived or treated unfairly. This connects to ICT because systems can affect privacy, autonomy and trust. I felt positive because it gives a clear way to question decisions and made me think more seriously about the responsibility ICT professionals have toward users and society.
+
+Why this artefact is meaningful: My workshop photo provides evidence that I attended and engaged with the workshop. The reflection shows how the discussion changed my understanding of ethical decision-making.
+
+Artefact #1 – Data Breach and the Ethical Responsibility to Protect Privacy
+
+Artefact: Office of the Australian Information Commissioner, Statement on MediSecure breach (2024).
+
+The MediSecure data breach stood out to me because it shows that cybersecurity failures can have serious ethical consequences for ordinary people. In July 2024, the OAIC reported that approximately 12.9 million individuals may have been affected by the incident, making it the largest number of individuals impacted in a notification under the Australian Notifiable Data Breaches scheme at that time (OAIC 2024). Before reading this, I mainly thought of a data breach as a technical security problem. After reading it, I understood more clearly that organisations have an ethical responsibility to protect the personal information people trust them with. I felt concerned because individuals can experience harm even though they did nothing wrong. This artefact connects ICT with privacy, trust and professional responsibility.
+
+Why I chose it: I chose this Australian case because it makes the ethical issue real and easy to connect to society. It shows that ICT professionals need to think beyond building systems and consider how security decisions affect people.
+
+Artefact #2 – Ethical Hacking and Permission
+
+Artefact: GeeksforGeeks, Introduction to Cybersecurity and ethical hacking (2024), video.
+
+The 2024 video helped me understand why hacking is not automatically unethical. It explains that ethical hackers use testing and vulnerability assessment to identify weaknesses so they can be fixed before malicious attackers exploit them (GeeksforGeeks 2024). The key idea that stood out was permission. Before this, I thought finding a security weakness was enough to make an action useful. After learning more, I realised that an ICT professional must consider authorisation, boundaries and the impact on others. I felt positive because ethical hacking can turn technical skills into a way of protecting society. However, it also made me realise how easily these skills could be misused when professional responsibilities are ignored.
+
+Why I chose it: This video was useful because it connects technical cybersecurity skills with ethical behaviour. It helped me see that the same technical knowledge can be used either to protect systems or to harm people, depending on the purpose and whether permission has been given.
+
+Artefact #3 – Ethical Risks in Attacking AI Systems
+
+Artefact: National Institute of Standards and Technology, NIST identifies types of cyberattacks that manipulate behavior of AI systems (2024).
+
+NIST’s 2024 discussion of attacks against AI systems changed how I think about AI ethics. It explains that attackers can manipulate AI through evasion, poisoning, privacy and abuse attacks, with no completely foolproof defence (NIST 2024). The idea that stood out was that an AI system can be technically impressive but still create ethical problems when its data or inputs are manipulated. Before this, I mostly associated AI ethics with bias and privacy. After reading this artefact, I also connected ethics with security, responsibility and preventing harm. I felt mixed because AI can provide useful services, but people may trust its decisions without understanding the risks. For ICT professionals, ethical practice must include testing, risk management and protecting users from foreseeable misuse.
+
+Why I chose it: I chose this artefact because it shows that ethical issues in ICT are connected. AI is not only about accuracy or convenience; security failures can also affect safety, privacy and trust. This helped me connect the workshop’s ethical theories to a current technology.
+
+Artefact Source links:
+
+Artefact #1 — MediSecure Data Breach
+
+Office of the Australian Information Commissioner (OAIC), 2024
+
+MediSecure data breach — OAIC
+
+This is the official Australian government source. It states that approximately 12.9 million individuals may have been affected.
+
+Artefact #2 — Ethical Hacking Video
+
+GeeksforGeeks, 2024
+
+Introduction to Cybersecurity and Ethical Hacking — Video
+
+This is the video I selected for the ethical hacking artefact. It covers ethical hacking, penetration testing, identifying vulnerabilities and protecting systems.
+
+Artefact #3 — Ethics and AI Cyberattacks
+
+National Institute of Standards and Technology (NIST), 2024
+
+NIST — Cyberattacks That Manipulate AI Systems
+
+This is an official NIST article about AI security and ethical risks, including evasion, poisoning, privacy and abuse attacks.
+
+Overall Reflection
+
+This workshop changed my understanding of ethics in ICT because I now see ethical decisions as more than simply choosing what is legal, convenient or technically effective. Kantianism particularly helped me think about whether people are being respected rather than used to achieve an organisation's goals. The other artefacts showed how this idea applies to privacy, ethical hacking, cybersecurity and AI. Together, they demonstrate that ICT professionals have responsibilities to users and society, especially when their decisions can create risks or harm.
+
+References
+
+CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society: Workshop Week 4 – Ethics and Ethical Theories, lecture slides, CQUniversity, accessed 11 August 2026.
+
+GeeksforGeeks 2024, Introduction to Cybersecurity and ethical hacking, video, 12 April, accessed 11 August 2026.
+
+National Institute of Standards and Technology (NIST) 2024, NIST identifies types of cyberattacks that manipulate behavior of AI systems, 4 January, accessed 11 August 2026.
+
+Office of the Australian Information Commissioner (OAIC) 2024, Statement on MediSecure breach, 18 July, accessed 11 August 2026.
