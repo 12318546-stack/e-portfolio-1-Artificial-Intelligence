@@ -1,4 +1,3 @@
-<img width="4032" height="3024" alt="IMG_6407" src="https://github.com/user-attachments/assets/05d4b1e2-0c15-4a01-8ab8-0e24785c7a73" />
 
 # e-portfolio-1-Artificial-Intelligence
 
