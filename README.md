@@ -78,11 +78,17 @@ Why this artefact is meaningful: My workshop photo provides evidence that I atte
 
 
 
-
-
-
-
 <img width="3024" height="4032" alt="IMG_6406 (1)" src="https://github.com/user-attachments/assets/764f7893-b164-4b08-996b-a127b6c4ca6f" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -115,7 +121,14 @@ Artefact: Office of the Australian Information Commissioner, Statement on MediSe
 
 
 
+
+
+
 I found the MediSecure data breach interesting because it demonstrates how a cybersecurity incident can have significant ethical implications for individuals. The OAIC reported that it is the largest number of individuals impacted in a notification under the Australian Notifiable Data Breaches scheme for the time period July 2024 (OAIC 2024). Up until this point I mainly thought of a data breach as a technical security issue. Reading it made me realize I better understood the moral obligation of organisations to safeguard the personal information that people entrusted to them with. I was concerned because it was people who can be harmed without being at fault. This artefact is about privacy, trust and professional responsibility as it relates to ICT.
+
+
+
+
 
 
 
@@ -133,6 +146,9 @@ I found the MediSecure data breach interesting because it demonstrates how a cyb
 
 Why I chose it: I selected this Australian case as it is an easily relatable and very real moral dilemma. It demonstrates that ICT professionals must recognise and understand that the choices made with regard to security impact on people as well.
  
+
+
+
 
 
 
