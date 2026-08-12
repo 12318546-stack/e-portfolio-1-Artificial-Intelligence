@@ -65,6 +65,7 @@ Why this artefact is meaningful: My workshop photo provides evidence that I atte
 
 
 
+<img width="3024" height="4032" alt="IMG_6406" src="https://github.com/user-attachments/assets/0a9f9106-45ab-4fc1-9b68-764725b5f145" />
 
 
 
@@ -76,9 +77,6 @@ Why this artefact is meaningful: My workshop photo provides evidence that I atte
 
 
 
-
-
-<img width="3024" height="4032" alt="IMG_6406 (1)" src="https://github.com/user-attachments/assets/764f7893-b164-4b08-996b-a127b6c4ca6f" />
 
 
 
