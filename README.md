@@ -106,6 +106,36 @@ Why this artefact is meaningful: My workshop photo provides evidence that I atte
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Artefact #1 – Data Breach and the Ethical Responsibility to Protect Privacy
 Artefact: Office of the Australian Information Commissioner, Statement on MediSecure breach (2024).
 
