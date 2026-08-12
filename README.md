@@ -1,14 +1,21 @@
 
-# e-portfolio-1-Artificial-Intelligence
+Student: Santosh Basnet
+Student number: 12318546
+Workshop: Week 4 – Ethics and Ethical Theories
+Date: 11 August 2026
+ 
 
 
 
+Artefact #4 – Workshop 4: Kantianism
+What really stuck with me was the idea of Kantianism, particularly the idea that people are to be treated as ends in themselves and not as a means to an end in Workshop 4. A moral rule has to be tested with the question as to whether it would be universally applicable (CQUniversity 2026). In the past, a decision about ICTs was mostly based on whether something beneficial was created. Following a discussion, I realized that if a person is deceived or treated unfairly, it is not automatically a good outcome, therefore an action is not ethical. This relates to ICT as systems can impact on privacy, autonomy and trust. I was optimistic because it enabled me to pose questions to decision making, and it made me consider more deeply what the responsibility of the ICT professional is toward users and society.
 
 
 
 
+Why this artefact is meaningful: My workshop photo provides evidence that I attended and engaged with the workshop. The reflection shows how the discussion changed my understanding of ethical decision-making.
+ 
 
-Artefact 1: What is Artifical Intelligence (AI)?
 
 
 
@@ -17,7 +24,6 @@ Artefact 1: What is Artifical Intelligence (AI)?
 
 
 
-<img width="1004" height="673" alt="Screenshot 2026-07-26 at 4 37 40 AM" src="https://github.com/user-attachments/assets/3822300b-5ba7-429d-9ee1-a1b97e657309" />
 
 
 
@@ -25,9 +31,9 @@ Artefact 1: What is Artifical Intelligence (AI)?
 
 
 
+<img width="3024" height="4032" alt="IMG_6406 (1)" src="https://github.com/user-attachments/assets/764f7893-b164-4b08-996b-a127b6c4ca6f" />
 
 
-https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 
 
@@ -35,31 +41,34 @@ https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 
 
-Summary
+Artefact #1 – Data Breach and the Ethical Responsibility to Protect Privacy
+Artefact: Office of the Australian Information Commissioner, Statement on MediSecure breach (2024).
 
 
 
 
+I found the MediSecure data breach interesting because it demonstrates how a cybersecurity incident can have significant ethical implications for individuals. The OAIC reported that it is the largest number of individuals impacted in a notification under the Australian Notifiable Data Breaches scheme for the time period July 2024 (OAIC 2024). Up until this point I mainly thought of a data breach as a technical security issue. Reading it made me realize I better understood the moral obligation of organisations to safeguard the personal information that people entrusted to them with. I was concerned because it was people who can be harmed without being at fault. This artefact is about privacy, trust and professional responsibility as it relates to ICT.
 
 
-This is a clip from my youtube channel where they explain ai for beginners, very easy-to-understandly. AI is defined as a machine which does things humans are smart for solving problems, making decisions. The video talked of various forms of AI like Artificial Narrow Intelligence (ANI), AGI (Artificial General Intelligence) and ASI (Artificial Super intelligence). Also, it states how artificial intelligence functions through information processing as well as pattern recognition with a view towards prediction making.
 
 
 
 
+Why I chose it: I selected this Australian case as it is an easily relatable and very real moral dilemma. It demonstrates that ICT professionals must recognise and understand that the choices made with regard to security impact on people as well.
+ 
 
-Justification
 
 
 
 
 
+Artefact #2 – Ethical Hacking and Permission
 
+Artefact: GeeksforGeeks, Introduction to Cybersecurity and ethical hacking (2024), video.
 
 
-This is what i chose as my choice of art class, due to its explanation style. It was very useful while studying for that course of mine this year. This movie is written with simple language used by scientists of today’s time period. Also, it made me think of our class project where we discussed how art does things for people. The lesson from this course taught me about art as well its significance for life now-a-days.
-And also how Ai is leading in everyfield to make us easier in the work.
 
+The 2024 video clarified for me why hacking isn't necessarily a bad thing. It is barely possible to explain it in any other way, except as follows: “Testing and vulnerability assessment is used to find out the weaknesses of systems so that they can be fixed before they are exploited by malicious attackers” (GeeksforGeeks 2024). The word that came back to me was permission. Prior to this, I believed that if there was a vulnerability in the security there was enough to make an action useful to me. Once I learnt more, I realised that there are certain issues that an ICT professional has to take into account – authorisation, boundaries and impacts on others. I was optimistic as ethical hacking can be a technical skill to safeguard the society. But, as it did, it also drove the point home that these skills can be misapplied if professional duties are overlooked.
 
 
 
@@ -67,47 +76,63 @@ And also how Ai is leading in everyfield to make us easier in the work.
 
 
 
+Why I chose it: it: This video helped me to combine technical cyber security skills and moral conduct. It gave me the opportunity to realize that the same technical knowledge is required for systems protection and for people's harm, depending on its purpose and consent.
+ 
 
 
 
 
 
 
+Artefact #3 – Ethical Risks in Attacking AI Systems
 
 
-Artefact 2: News Article – AI in Wildlife Conservation
+Artefact: National Institute of Standards and Technology, NIST identifies types of cyberattacks that manipulate behavior of AI systems (2024).
+The recent NIST discussion about attacks on AI systems really made me think about ethics in AI. It is discussing how attackers can use AI for evasion, poisoning, privacy and abuse attacks, and that there is no ultimate defence (NIST 2024). Standing out from the idea was the concept that an AI system can be technically impressive but can also pose ethical issues if the data or inputs are manipulated. Previously, I had only heard about biases and privacy being considered as two points of interest for AI ethics. Following the reading of this artefact, I also linked up ethics with security, responsibility and prevention of harm. I was feeling ambivalent about the fact that AI can be helpful, but that people might make decisions based on AI without being aware of the risks. Testing, risk management and protection from foreseeable misuse are all part of ethical practice for the ICT professional.
 
 
 
 
 
 
+Why I chose it: I selected this artefact because it demonstrates the relatedness of ethical issues in ICT. Security failures can extend beyond accuracy and convenience—the safety, privacy, and trust are also impacted. This helped to hone my thinking on the ethical theories from the workshop and link this to an existing technology.
 
 
-Summary:
 
 
 
+Artefact Source Links: 
 
 
 
-The article from ABC News talks about how artificial intelligence's being used by rangers in Victoria to protect native animals. The rangers take millions of pictures with cameras in the field and AI systems look through these pictures faster than people. The AI can spot animals accurately which helps the people in charge act quickly when there are problems, like unwanted animals. This technology helps save time and makes choices when it comes to protecting the environment.
+Artefact #1 — MediSecure Data Breach
+Office of the Australian Information Commissioner (OAIC), 2024
 
+MediSecure data breach — OAIC
+This is the official Australian government source. It states that approximately 12.9 million individuals may have been affected. 
 
 
 
+Artefact #2 — Ethical Hacking Video
+GeeksforGeeks, 2024
+Introduction to Cybersecurity and Ethical Hacking — Video
 
 
+This is the video I selected for the ethical hacking artefact. It covers ethical hacking, penetration testing, identifying vulnerabilities and protecting systems. 
 
 
-Justification:
 
 
+Artefact #3 — Ethics and AI Cyberattacks
+National Institute of Standards and Technology (NIST), 2024
+NIST — Cyberattacks That Manipulate AI Systems
 
+This is an official NIST article about AI security and ethical risks, including evasion, poisoning, privacy and abuse attacks. 
 
 
-I picked this article because it shows an example of how AI helps people and the planet. It made me see how machine learning can work with groups of data quickly which is something we talked about in the class. I thought it was cool that AI can help protect nature not just make companies better or create tech. This thing matters because it shows the side of AI but it also makes me think about how important it is to have correct information and good data.
+Artefact #4 — Workshop
 
+For Artefact #4, use your actual Workshop 4 selfie/photo rather than an external link. The workshop instructions specifically require a selfie as evidence that you attended. 
 
 
 
@@ -126,12 +151,11 @@ I picked this article because it shows an example of how AI helps people and the
 
 
 
-Artefact 3 — Scholarly article
+ <img width="4032" height="3024" alt="workshop jpg" src="https://github.com/user-attachments/assets/fad5ff63-55ec-4b56-afab-44e3f6aae677" />
 
 
 
 
-Article: Privacy, ethics, transparency, and accountability in AI systems for wearable devices
 
 
 
@@ -139,131 +163,27 @@ Article: Privacy, ethics, transparency, and accountability in AI systems for wea
 
 
 
+Overall Reflection
+I now have a different perspective on ethics in ICT than before this workshop as I see ethical issues as not just about what's legal, convenient or technically effective. The Kantianism helped me in my thinking of the fact that if people are being respected, but not used to accomplish an organisation's objectives, then what is this? The other artefacts demonstrated how this concept is applied to privacy, ethical hacking, cyber security and AI. They have proved that the role of the ICT professional has responsibilities towards users and society, particularly when decisions made with ICT results in risks or harm to the user or society. 
+References
 
 
 
 
 
 
-<img width="683" height="364" alt="Screenshot 2026-07-26 at 5 20 45 AM" src="https://github.com/user-attachments/assets/0e2c5e10-6122-4dde-93d6-e8dc9f590973" />
 
+CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society: Workshop Week 4 – Ethics and Ethical Theories, lecture slides, CQUniversity, accessed 11 August 2026.
 
 
 
+GeeksforGeeks 2024, Introduction to Cybersecurity and ethical hacking, video, 12 April, accessed 11 August 2026. 
 
 
 
+The National Institute of Standards and Technology (NIST) 2024 lists the types of cyberattacks that alter the behaviour of Artificial Intelligence (AI) systems, 4 January, accessed 11 August 2026.
 
 
 
-
-
-
-
-<img width="687" height="599" alt="Screenshot 2026-07-26 at 5 20 58 AM" src="https://github.com/user-attachments/assets/0b27cce2-8593-40e0-a3df-ed7c597809c3" />
-
-
-Summary:
-
-Radanliev in the year 2025 looks at the problems that happen when artificial intelligence is used in things we wear like smartwatches and sensors that check our health. These things can get lots of information all the time like how healthy we are what we do and where we go.
-
-
-
-The article talks about some worries. People are worried about their privacy if they really agree to all this if the information used to train the intelligence is fair and if we can understand how the artificial intelligence makes decisions.
-
-
-
-It suggests a plan that makes sure everything is clear that people are responsible, for what they do that we can understand how the artificial intelligence works that it is fair and that people know what is happening with their information when artificial intelligence systems are being made.
-
-
-
-Citation: Radanliev, P 2025, ‘Privacy, ethics, transparency, and accountability in AI systems for wearable devices’, Frontiers in Digital Health, vol. 7, article 1431246, doi: 10.3389/fdgth.2025.1431246.
-
-
-
-Justification: I chose this research paper because smart devices are now a part of daily life but a lot of people might not realize how much personal information these gadgets gather. Artificial intelligence can offer health details but it can also be dangerous if the data is collected without the right permission or used to categorize people. This topic relates to the conversation we had in Week 2, about data privacy, unfair data sets, openness and ethical use of machine learning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Artefact 4: Workshop Personal Reflection
-
-Workshop week: Week 2
-
-Day and date: Thrusday, 23 July 2026
-
-Tutor: Umapathy Venugopal
-
-Campus: Sydney Campus
-
-
-
-
-Grateful to learn from our respected teacher through zoom.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1470" height="956" alt="Screenshot 2026-07-27 at 12 13 22 PM" src="https://github.com/user-attachments/assets/59a23bec-f2e5-40fa-963a-30cdd4b45c1a" />
-
-
-
-
-Summary
-
-
-
-We talked about various types of artificial intelligence (AI) tools that are used practically like a car with driving capabilities; face identification system for parking lot management etc.; chatbots and more about how it can helps us in our daily life.Although,use of Ai is higher nowadays,somehow it provided a raw data or anything that we want. Moreover,Ethics were another issue that we looked at such as confidentiality, prejudice etc.
-
-
-
-
-
-Reflection (Analysis and Evaluation)
-
-
-
-The thing which struck me is how AI works, it does not understand its purpose and tries guessing things by analyzing inputs given out to them. It’s surprising as i thought AI are all good, perfect at everything. Artificial intelligence (AI) has its mistakes; these are terrible ones to humans so i was thinking of AI as well.
-Accountability is another idea. It’s difficult when AI decides what, how & why things are done by Artificial intelligence systems. It also caused much reflection on what is done by IOT workers, as well. From my experience at this training session people should also take responsibility as well because of smart machines / ai’s usage issues.
-This is an educational event for me. The lesson was to be critical when it comes to technologies as well their effects upon people’s lives, etc. I'll consider pros as well cons with regards to artificial intelligence later on. More accountable with respect of technologies used, as well as their creation would likely suit me better. The lesson that I learnt from this event was also to realize how significant a part plays on ethics rather than information when it comes with respect for technology (ict).
-
-
-
-
-References in CQU Harvard Style
-
-Brown,M 2026,'The''groundbreaking'' AI tool helping Victorian rangers protect native species in a fraction of the time',
-ABC News,27 April,viewed 13 May 2026,
-
-
-Radanliev, P 2025, ‘Privacy, ethics, transparency, and accountability in AI systems for wearable devices’, Frontiers in Digital Health, vol. 7, article 1431246. DOI: 10.3389/fdgth.2025.1431246
-
+Office of the Australian Information Commissioner (OAIC) 2024, Statement on MediSecure breach, 18 July, accessed 11 August 2026.
 
