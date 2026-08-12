@@ -59,6 +59,7 @@ What really stuck with me was the idea of Kantianism, particularly the idea that
 
 
 
+
 Why this artefact is meaningful: My workshop photo provides evidence that I attended and engaged with the workshop. The reflection shows how the discussion changed my understanding of ethical decision-making.
  
 
