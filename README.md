@@ -242,6 +242,33 @@ Workshop 9: Attendance and Engagement Evidence
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="3302" height="2476" alt="79D8FA90-2D4E-44E0-A845-DE069C930D39" src="https://github.com/user-attachments/assets/c32e45ea-8024-44b7-8c3c-2cf2cc41d202" />
+
+
+
+
+
+
+
 Overall Workshop 9 Reflection
 
 
@@ -299,32 +326,6 @@ Freedom House (2024) *Freedom on the Net 2024: China*.
 
 
 Freedom House (2024) *Freedom on the Net 2024: China*.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="3302" height="2476" alt="79D8FA90-2D4E-44E0-A845-DE069C930D39" src="https://github.com/user-attachments/assets/c32e45ea-8024-44b7-8c3c-2cf2cc41d202" />
-
 
 
 
